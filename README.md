@@ -9,4 +9,4 @@
 
 <h2>Graziela Guimarães</h2>
 
-<a href = "https://www.linkedin.com/in/graziela-guimar%C3%A3es-a99b5a209/">Linkedin</a>
+<a href = "https://www.linkedin.com/in/graziela-guimar%C3%A3es-a99b5a209/" target="_blank">Linkedin</a>
